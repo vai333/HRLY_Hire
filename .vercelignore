@@ -3,3 +3,9 @@ frontend/node_modules
 **/__pycache__
 backend/tests
 .env
+.env.local
+.env.*.local
+.vercel
+.pytest_cache
+frontend/dist
+docs-components-map.png
